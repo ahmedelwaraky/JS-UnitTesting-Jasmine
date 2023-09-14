@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  },
+  "scripts": {
+    "test": "nodemon --exec jasmine"
+  },
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
